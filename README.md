@@ -20,3 +20,6 @@ User → S3 Bucket (Static Website Hosting) → HTML page
 - Amazon S3 (bucket, policy, static hosting)
 - IAM (least privilege user)
 - Budget monitoring (Zero-spend budget)
+
+## Hasil
+![Screenshot Website](hasil.png)
