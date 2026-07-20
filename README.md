@@ -1,5 +1,7 @@
 # AWS S3 Static Website Hosting
 
+🔗 **Live Demo**: [Klik di sini untuk lihat website](http://riki-latihan-website-2026.s3-website-ap-southeast-1.amazonaws.com)
+
 ## Tujuan
 Belajar deploy static website menggunakan Amazon S3.
 
